@@ -77,9 +77,9 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "suho~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, suho md User!* 👋🏻
+                        let desc = `*Haii baby im Cyberia-MD welcome!* 👋🏻
 
-Thanks for using *SungSu-ho-MD* — your session has been successfully created!
+well well well darling thanks for choosing *Cyberia-MD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -92,8 +92,7 @@ https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/SungSu-ho-MD
-
+https://github.com/NaCkS-ai/Cyberia-MD
 ——————
 
 > *© Powered by Dev Sung*
@@ -103,7 +102,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "suho pair",
-thumbnailUrl: "https://files.catbox.moe/x8vle8.jpg",
+thumbnailUrl: "https://files.catbox.moe/lvomei.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -113,9 +112,9 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `Hey there, suho md User!* 👋🏻
+                            let desc = `Haii baby im Cyberia-MD welcome!* 👋🏻
 
-Thanks for using *SungSu-ho-MD* — your session has been successfully created!
+well well well darling im *Cyberia-MD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -128,7 +127,7 @@ https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/SungSu-ho-MD
+https://github.com/NaCkS-ai/Cyberia-MD
 
 ——————
 
